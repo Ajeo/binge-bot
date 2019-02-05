@@ -17,3 +17,7 @@ You would need:
 2. Open the project in Xcode
 3. Connect your devise
 4. Click run and enjoy!
+
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/Ajeo/binge-bot/master/screenshots/1.jpeg)

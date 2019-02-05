@@ -47,6 +47,7 @@
 		365A775C2209102700B2CF4B /* BingeBotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BingeBotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		365A77602209102700B2CF4B /* BingeBotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BingeBotUITests.swift; sourceTree = "<group>"; };
 		365A77622209102700B2CF4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		365A776E22091FD400B2CF4B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		365A77342209102500B2CF4B = {
 			isa = PBXGroup;
 			children = (
+				365A776E22091FD400B2CF4B /* README.md */,
 				365A773F2209102500B2CF4B /* BingeBot */,
 				365A77542209102700B2CF4B /* BingeBotTests */,
 				365A775F2209102700B2CF4B /* BingeBotUITests */,
@@ -433,6 +435,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 75397YK87L;
 				INFOPLIST_FILE = BingeBot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +453,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 75397YK87L;
 				INFOPLIST_FILE = BingeBot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
